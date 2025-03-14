@@ -20,3 +20,9 @@ Companies receive numerous resumes from job applicants for various positions. Ou
 - ⏳ **Save Time**: Automates screening, reducing manual effort in shortlisting applicants.  
 
 This feature accelerates the hiring process, allowing companies to identify suitable candidates more efficiently and make informed hiring decisions.  
+
+<img width="1440" alt="Screenshot 2025-03-14 at 10 11 24 PM" src="https://github.com/user-attachments/assets/e4985bd4-cbff-4432-9a38-58377ce00fe6" />
+
+<img width="1440" alt="Screenshot 2025-03-14 at 10 13 55 PM" src="https://github.com/user-attachments/assets/cbba0a04-d01d-4f46-9f24-b4dc5c380170" />
+
+
